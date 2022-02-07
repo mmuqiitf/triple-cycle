@@ -89,7 +89,7 @@ function Navbar() {
                   </li>
                   <li className="relative group">
                     <a
-                      href="#about"
+                      href="#data-pokok"
                       className="
                           ud-menu-scroll
                           text-base text-dark
@@ -105,12 +105,12 @@ function Navbar() {
                           xl:ml-12
                         "
                     >
-                      About
+                      Tentang
                     </a>
                   </li>
                   <li className="relative group">
                     <a
-                      href="#pricing"
+                      href="#informasi"
                       className="
                           ud-menu-scroll
                           text-base text-dark
@@ -126,12 +126,12 @@ function Navbar() {
                           xl:ml-12
                         "
                     >
-                      Pricing
+                      Informasi
                     </a>
                   </li>
                   <li className="relative group">
                     <a
-                      href="#team"
+                      href="#lingkup"
                       className="
                           ud-menu-scroll
                           text-base text-dark
@@ -147,12 +147,12 @@ function Navbar() {
                           xl:ml-12
                         "
                     >
-                      Team
+                      Ruang Lingkup
                     </a>
                   </li>
                   <li className="relative group">
                     <a
-                      href="#contact"
+                      href="#struktur"
                       className="
                           ud-menu-scroll
                           text-base text-dark
@@ -168,192 +168,32 @@ function Navbar() {
                           xl:ml-12
                         "
                     >
-                      Contact
+                      Struktur Organisasi
                     </a>
                   </li>
-                  <li className="relative group submenu-item">
+                  <li className="relative group">
                     <a
-                      href="/"
+                      href="#pengalaman"
                       className="
+                          ud-menu-scroll
                           text-base text-dark
                           lg:text-white
                           lg:group-hover:opacity-70
                           lg:group-hover:text-white
                           group-hover:text-primary
                           py-2
-                          lg:py-6 lg:inline-flex lg:pl-0 lg:pr-4
+                          lg:py-6 lg:inline-flex lg:px-0
                           flex
                           mx-8
-                          lg:mr-0 lg:ml-8
+                          lg:mr-0 lg:ml-7
                           xl:ml-12
-                          relative
                         "
                     >
-                      Pages
+                      Pengalaman Perusahaan
                     </a>
-                    <div
-                      className="
-                          submenu
-                          hidden
-                          relative
-                          lg:absolute
-                          w-[250px]
-                          top-full
-                          lg:top-[110%]
-                          left-0
-                          rounded-sm
-                          lg:shadow-lg
-                          p-4
-                          lg:block lg:opacity-0 lg:invisible
-                          group-hover:opacity-100
-                          lg:group-hover:visible lg:group-hover:top-full
-                          bg-white
-                          transition-[top]
-                          duration-300
-                        "
-                    >
-                      <a
-                        href="about.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        About Page
-                      </a>
-                      <a
-                        href="pricing.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        Pricing Page
-                      </a>
-                      <a
-                        href="contact.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        Contact Page
-                      </a>
-                      <a
-                        href="blog-grids.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        Blog Grid Page
-                      </a>
-                      <a
-                        href="blog-details.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        Blog Details Page
-                      </a>
-                      <a
-                        href="signup.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        Sign Up Page
-                      </a>
-                      <a
-                        href="signin.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        Sign In Page
-                      </a>
-                      <a
-                        href="404.html"
-                        className="
-                            block
-                            text-sm text-body-color
-                            rounded
-                            hover:text-primary
-                            py-[10px]
-                            px-4
-                          "
-                      >
-                        404 Page
-                      </a>
-                    </div>
                   </li>
                 </ul>
               </nav>
-            </div>
-            <div className="sm:flex justify-end hidden pr-16 lg:pr-0">
-              <a
-                href="signin.html"
-                className="
-                    text-base
-                    font-medium
-                    text-white
-                    hover:opacity-70
-                    py-3
-                    px-7
-                    loginBtn
-                  "
-              >
-                Sign In
-              </a>
-              <a
-                href="signup.html"
-                className="
-                    text-base
-                    font-medium
-                    text-white
-                    bg-white bg-opacity-20
-                    rounded-lg
-                    py-3
-                    px-6
-                    hover:bg-opacity-100 hover:text-gray-500
-                    signUpBtn
-                    duration-300
-                    ease-in-out
-                  "
-              >
-                Sign Up
-              </a>
             </div>
           </div>
         </div>

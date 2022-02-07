@@ -1,6 +1,6 @@
 function DataPokok() {
   return (
-    <section className="pt-20 bg-green-300 bg-opacity-20 pb-8">
+    <section id="data-pokok" className="pt-20 bg-green-300 bg-opacity-20 pb-8">
       <div className="container mx-auto pt-5">
         <div className="flex flex-wrap -mx-4">
           <div className="w-full px-4">

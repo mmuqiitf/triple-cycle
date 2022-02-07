@@ -8,6 +8,7 @@ import Informasi from "./components/Informasi";
 import RuangLingkup from "./components/RuangLingkup";
 import DataPokok from "./components/DataPokok";
 import StrukturOrganisasi from "./components/StrukturOrganisasi";
+import Pengalaman from "./components/Pengalaman";
 
 function App() {
   new WOW.WOW({
@@ -22,6 +23,7 @@ function App() {
       <Informasi></Informasi>
       <RuangLingkup></RuangLingkup>
       <StrukturOrganisasi></StrukturOrganisasi>
+      <Pengalaman></Pengalaman>
     </div>
   );
 }

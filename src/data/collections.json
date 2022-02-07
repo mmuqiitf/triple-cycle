@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "judul": "Pembuatan Reaktor Isotermal untuk Pengolahan Limbah Aluminium",
+    "klien": "PT. Teknotama Lingkungan Internusa",
+    "lokasi": "Tangerang, Banten",
+    "deskripsi": "Reaktor ini digunakan untuk mengkonversi limbah aluminium menjadi aluminium sulfat, yang dapat dimanfaatkan sebagai koagulan. Reaktor yang terbuat dari bahan baja SS-316 tersebut, dirancang untuk menahan kondisi operasi yang melibatkan temperatur dan tekanan tinggi, serta bahan-bahan yang korosif. Selain itu, reaktor juga dilengkapi dengan kontrol tekanan dan temperatur digital.",
+    "gambar": "bidang mesin.jpg"
+  },
+  {
+    "id": 2,
+    "judul": "Swing-Pressure Biogas Reactor",
+    "klien": "PT. Bumimas Ekapersada",
+    "lokasi": "Cikarang, Bekasi, Jawa Barat",
+    "deskripsi": "Unit reaktor biogas ini merupakan kombinasi antara reaktor biogas dua-tahap (doublestages biogas reactor) dengan unit purifikasi biogas dengan prinsip kerja swingpressure. Unit ini dapat menghasilkan biogas dengan kandungan metan yang lebih tinggi, sehingga biogas yang dihasilkan dapat dimanfaatkan untuk generator listrik (genset). Bahan baku yang dikonversi menjadi biogas adalah bungkil jarak pagar (jatropha seed cake).",
+    "gambar": "swing-pressure-2.jpg"
+  },
+  {
+    "id": 3,
+    "judul": "Integrated Biogas Reactor and Tray Drier for Crop Drying",
+    "klien": "PT. D1 Oil Indonesia",
+    "lokasi": "Ciawi, Bogor, Jawa Barat",
+    "deskripsi": "Dengan mengintegrasikan reaktor biogas dua-tahap (double-stages biogas reactor) dan tray drier, kami menyediakan sistem alternatif untuk pengeringan hasil panen. Reaktor biogas dua-tahap digunakan untuk mengkonversi bungkil jarak pagar menjadi biogas. Biogas yang dihasilkan kemudian dimanfaatkan sebagai bahan bakar tray drier. Tray drier ini digunakan untuk mengeringkan hasil panen seperti biji kopi atau daun seledri. Penggunaan sistem pengering ini lebih efisien dibandingkan pengeringan dengan tenaga matahari. Selain itu, penggunaan sistem ini juga lebih murah dibandingkan alat pengering lain yang berbahan bakar fosil",
+    "gambar": "integrated-biogas.jpg"
+  },
+  {
+    "id": 4,
+    "judul": "Decanter Centrifuge",
+    "klien": "LIPI Bogor",
+    "lokasi": "Bogor, Jawa Barat",
+    "deskripsi": "Decanter centrifuge merupakan alat pemisah yang bekerja secara kontinu. Alat ini dapat digunakan untuk memisahkan padatan tersuspensi dari cairan, maupun untuk memisahkan dua cairan yang tidak saling-larut (immiscible). Unit decanter centrifuge yang diaplikasikan di Bogor ini digunakan untuk memisahkan alga dari air laut.",
+    "gambar": "decanter-2.jpg"
+  },
+  {
+    "id": 5,
+    "judul": "Studi Kelayakan “Pabrik Mandiri Energi” Berbasis Limbah Tapioka pada Pabrik Tapioka Milik PT. Lautan Warna Sari",
+    "klien": "PT. Lautan Warna Sari",
+    "lokasi": "Lampung",
+    "deskripsi": "PT. Lautan Warna Sari adalah perusahaan yang memproduksi tepung tapioka. Kapasitas pengolahan dari pabrik yang dimiliki oleh perusahaan tersebut adalah 100 ton singkong per-hari. Setiap hari, pabrik tersebut menghasilkan limbah padat sebanyak 40 ton, dan limbah cair sebanyak 1.000 m3. Studi kelayakan yang dilakukan oleh CV. Triple Cycle, memberikan kesimpulan bahwa kuantitas limbah yang dihasilkan oleh pabrik tersebut dapat menghasilkan 12.000 m3 biogas per-hari, atau setara dengan 886 kVA listrik per-hari. Kuantitas tersebut cukup untuk memenuhi kebutuhan pemakaian listrik di pabrik tersebut.",
+    "gambar": null
+  },
+  {
+    "id": 6,
+    "judul": "Pendampingan Perkembangan Desa Mandiri Energi Berbasis Bioetanol",
+    "klien": "Kementrian ESDM",
+    "lokasi": "Jawa Tengah",
+    "deskripsi": "Triple Cycle men-support PT. Wahana Pengembangan Usaha (WPU) yang mendapat Project dari Kementrian ESDM dalam Program Pendampingan dalam rangka melanjutkan program Desa Mandiri Energi Berbasis Bioetanol dan memberikan masukan-masukan kepada pemerintah agar program ini lebih berhasil di masa yang akan datang.",
+    "gambar": null
+  },
+  {
+    "id": 7,
+    "judul": "Training “Pengenalan Teknologi Fiberglass untuk Reaktor Biogas”",
+    "klien": "Fakultas Teknologi Industri, Institut Teknologi Nasional, Bandung",
+    "lokasi": "Desa Haurgombong, Kab. Sumedang",
+    "deskripsi": "CV. Triple Cycle menyediakan tenaga instruktur untuk Program Pengabdian Kepada Masyarakat, yang diselenggarakan oleh Fakultas Teknologi Industri, Institut Teknologi Nasional. Program ini bertemakan “Pengenalan Teknologi Fiberglass untuk Reaktor Biogas”. Program ini menggunakan format training berupa materi di kelas dan praktek di lapangan. Sasaran dari program ini adalah para peternak sapi di Desa Haurgombong, Kabupaten Sumedang, yang tergabung di dalam 3 (tiga) kelompok tani.",
+    "gambar": null
+  },
+  {
+    "id": 8,
+    "judul": "Training “Pengenalan Pengolahan Limbah kepada Usaha Kecil Industri Tahu”",
+    "klien": "Jurusan Teknik Kimia, Institut Teknologi Nasional, Bandung",
+    "lokasi": "Desa Genteng, Kabupaten Majalengka",
+    "deskripsi": "Training ini merupakan bagian dari Program Pengabdian kepada Masyarakat yang diselenggarakan oleh Jurusan Teknik Kimia, Institut Teknologi Nasional. Dalam training ini, CV. Triple Cycle menyediakan tenaga instruktur dalam pengenalan pembuatan biodigester sederhana untuk mengolah limbah cair industri tahu menjadi biogas. Peserta training adalah pengusaha tahu rakyat di Desa Genteng, Kabupaten Majalengka, yang tergabung dalam Gabungan Kelompok Tani Tunas Muda. Peserta training dibekali dengan pengetahuan dasar mengenai pembuatan reaktor biogas sederhana. Para peserta kemudian diberikan kesempatan untuk melakukan praktek pembuatan reaktor biogas sederhana berdasarkan panduan dari instruktur. ",
+    "gambar": null
+  },
+  {
+    "id": 9,
+    "judul": "Training “Water Sampling and Measurement in Environmental Analysis”",
+    "klien": "CV. Velveterra Trisula",
+    "lokasi": "Bandung, Jawa Barat",
+    "deskripsi": "Beberapa orang SDM dari CV. Triple Cycle mendapatkan kesempatan untuk menjadi pemateri dan instruktur dalam training yang diadakan oleh CV. Velveterra Trisula. Training yang bertemakan “Water Sampling and Measurement in Enviromental Analysis” ini diadakan selama 4 hari, meliputi 3 hari materi di kelas, dan 1 hari praktek/kunjungan lab. Peserta dari training ini adalah karyawan perusahaan PT. Chevron Geothermal & Power Indonesia. ",
+    "gambar": "water-sampling.jpg"
+  }
+]

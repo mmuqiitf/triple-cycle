@@ -26,7 +26,8 @@ function StrukturOrganisasi() {
                 text-body-color
               "
               >
-                Berikut ini adalah informasi yang tersedia pada website ini
+                Berikut ini adalah informasi struktur organisasi yang tersedia
+                pada website ini
               </p>
             </div>
           </div>
