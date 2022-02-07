@@ -1,6 +1,5 @@
 import collections from "../data/collections.json";
 function Pengalaman() {
-  console.log(collections);
   return (
     <section className="pt-20 bg-green-300 bg-opacity-20 pb-8">
       <div className="container mx-auto pt-5">
