@@ -1,7 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
 import WOW from "wowjs";
-import { useState } from "react";
 import HeroHome from "./components/HeroHome";
 import Navbar from "./components/Navbar";
 import Informasi from "./components/Informasi";
